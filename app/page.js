@@ -350,7 +350,7 @@ export default function Home() {
       <div className="header">
         <h1>🎓 Zeyue 2027-2028 Kindergarten</h1>
         <p>NYC私立学校幼儿园申请信息追踪</p>
-        <p style={{fontSize: 12, marginTop: 4, opacity: 0.7}}>最后更新：2026年3月1日</p>
+        <p style={{fontSize: 12, marginTop: 4, opacity: 0.7}}>最后更新：2026年3月5日</p>
         <div className="stats">
           <div className="stat">
             <div className="stat-num">{schools.length}</div>
